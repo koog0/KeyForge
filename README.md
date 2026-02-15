@@ -1,1 +1,4 @@
-# "Too much caution can't hurt."
+# "In KeyForge we trust"
+
+*Credits:*
+- [Flask](https://flask.palletsprojects.com) for the API's backend
